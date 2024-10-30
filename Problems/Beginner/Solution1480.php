@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LeetCode\Problems\Beginner;
 
 class Solution1480 {
